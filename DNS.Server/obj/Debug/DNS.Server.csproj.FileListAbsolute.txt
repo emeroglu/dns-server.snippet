@@ -1,0 +1,14 @@
+D:\OneDrive\Software Glossary\Projects\Server Projects\DNS.Server\DNS.Server\bin\Debug\DNS.Server.exe.config
+D:\OneDrive\Software Glossary\Projects\Server Projects\DNS.Server\DNS.Server\bin\Debug\DNS.Server.exe
+D:\OneDrive\Software Glossary\Projects\Server Projects\DNS.Server\DNS.Server\bin\Debug\DNS.Server.pdb
+D:\OneDrive\Software Glossary\Projects\Server Projects\DNS.Server\DNS.Server\obj\Debug\DNS.Server.exe
+D:\OneDrive\Software Glossary\Projects\Server Projects\DNS.Server\DNS.Server\obj\Debug\DNS.Server.pdb
+D:\OneDrive\Software Glossary\Projects\Server Projects\DNS.Server\DNS.Server\bin\Debug\DNS.Server.exe.manifest
+D:\OneDrive\Software Glossary\Projects\Server Projects\DNS.Server\DNS.Server\bin\Debug\DNS.Server.application
+D:\OneDrive\Software Glossary\Projects\Server Projects\DNS.Server\DNS.Server\obj\Debug\DNS.Server.exe.manifest
+D:\OneDrive\Software Glossary\Projects\Server Projects\DNS.Server\DNS.Server\obj\Debug\DNS.Server.application
+D:\OneDrive\Software Glossary\Projects\Server Projects\DNS.Server\DNS.Server\obj\Debug\DNS.Server.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\Server Projects\DNS.Server\DNS.Server\obj\Debug\DNS.Server.csprojAssemblyReference.cache
+D:\Dropbox\Projects\Server Projects\DNS.Server\DNS.Server\obj\Debug\DNS.Server.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\Server Projects\DNS.Server\DNS.Server\obj\Debug\DNS.Server.exe
+D:\Dropbox\Projects\Server Projects\DNS.Server\DNS.Server\obj\Debug\DNS.Server.pdb
